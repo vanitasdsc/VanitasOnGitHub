@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZoxOnGitHub
+- 👋 Hi, I’m @NotDescow
 - 📚 I'm a devlopper
-- 🍸 My discord ? >zox#0026
+- 🍸 My discord ? Descow#0001
 - 😀 Good Bye !
 <!---
 ZoxOnGitHub/ZoxOnGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
